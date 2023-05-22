@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+td{
+    text-align: center;
+    padding: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+}
